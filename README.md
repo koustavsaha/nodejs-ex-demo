@@ -38,7 +38,7 @@ This example will serve a welcome page and the current hit count as stored in a 
 There are four methods to get started with OpenShift v3:
 
   - Running a virtual machine with Vagrant
-  - Running a virtual machine managed by minishift
+  - Running a virtual machine managed by midnishift
   - Starting a Docker container
   - Downloading the binary
   - Running an Ansible playbook
