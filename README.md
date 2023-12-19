@@ -49,7 +49,7 @@ One option is to use the Vagrant all-in-one launch as described in the [OpenShif
 
 #### Running a virtual machine managed by minishift
 
-Another option to run virtual machine but not having to using Vagrant is to download and use the `minishift` binary as described in its [getting started](https://github.com/minishift/minishift/#getting-started) section. `minishift` can be used to spin up a VM on any of Windows, Linux or Mac with the help of supported underlying virtualization technologies like KVM, xhyve, Hyper-V, VirtualBox.
+Another option to run virtual machine but not having to using Vagrant is to download and use the `minishift` binary as described in its [getting started](https://github.com/minishift/minishift/#getting-started) section. `minishift` can be uskkd to spin up a VM on any of Windows, Linux or Mac with the help of supported underlying virtualization technologies like KVM, xhyve, Hyper-V, VirtualBox.
 
 #### Starting a Docker container
 
